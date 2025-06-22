@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on.. **anything!**
 
-- 📫 How to reach me.. **finidngparry@gmail.com**
-
 - ⚡ Fun fact.. **I have an endless list of things to "learn"**
 
 <h3 align="left">Connect with me:</h3>
