@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on.. **a few personal projects**
 
-- 🌱 I’m currently learning.. **HTML, CSS, Swift, Python & more!**
+- 🌱 I’m currently learning.. **Python & Terraform**
 
 - 👯 I’m looking to collaborate on.. **anything!**
 
